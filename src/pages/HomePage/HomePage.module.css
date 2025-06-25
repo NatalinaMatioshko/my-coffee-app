@@ -1,0 +1,10 @@
+.container {
+  padding: 16px;
+  margin: 0 auto;
+}
+.hero {
+  padding: 93px;
+  max-width: 1366px;
+  min-height: 768px;
+  background-image: url(../../assets/img/coffee_image.jpg);
+}
