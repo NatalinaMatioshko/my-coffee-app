@@ -24,7 +24,7 @@ const HomePage = () => {
           ever tasted.
         </p>
         <button>Learn More</button>
-        <img src="" alt="" />
+        {/* <img src="../../assets/img/coffee-cup.png" alt="Coffee cup" /> */}
       </section>
     </>
   );
