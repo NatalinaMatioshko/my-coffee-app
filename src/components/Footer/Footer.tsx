@@ -1,7 +1,9 @@
+import Container from '../Container/Container';
+
 const Footer = () => {
   return (
     <footer>
-      <div>
+      <Container>
         <div>
           <a href="">Bean Scene</a>
           <p>
@@ -34,7 +36,7 @@ const Footer = () => {
             <li>Contact Us</li>
           </ul>
         </div>
-      </div>
+      </Container>
     </footer>
   );
 };
